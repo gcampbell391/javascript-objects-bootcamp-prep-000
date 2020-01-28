@@ -1,3 +1,6 @@
-var playlist = { tom petty: "learning to fly"};  
+var playlist = {
+  tomPetty: 'learningToFly'
+}
+
 
 
